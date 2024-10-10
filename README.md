@@ -55,7 +55,7 @@ Any malicious or illegal activities that target innocent people, violate online 
 
 Explore our open-source projects, where we share tools, scripts, and educational content designed to enhance **cybersecurity knowledge**:
 
-- **[Cyber Defense Toolkit](https://github.com/rabinasiyam/IP-Info-Extension)** - Get detailed insights into websites instantly. IPv4, IPv6, ISP, domain, and your IP address. Enhance browsing with IP Info Extension!
+- **[IP-Info-Extention](https://github.com/rabinasiyam/IP-Info-Extension)** - Get detailed insights into websites instantly. IPv4, IPv6, ISP, domain, and your IP address. Enhance browsing with IP Info Extension!
 
 ---
 
