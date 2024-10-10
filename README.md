@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="The Cyber Shark - TCS" style="border-radius: 50%; width: 200px; height: 200px;" />
+  <img src="logo.png" alt="The Cyber Shark - TCS" style="border-radius: 10%; width: 50%; height: 50%;" />
 </p>
 
 <h1 align="center">The Cyber Shark - TCS 🦈</h1>
