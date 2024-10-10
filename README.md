@@ -1,4 +1,10 @@
-<p align="center"> <img src="logo.png" alt="The Cyber Shark - TCS" /> </p> <h1 align="center">The Cyber Shark - TCS 🦈</h1>
+<p align="center">
+  <img src="logo.png" alt="The Cyber Shark - TCS" style="border-radius: 50%; width: 200px; height: 200px;" />
+</p>
+
+<h1 align="center">The Cyber Shark - TCS 🦈</h1>
+
+
 ### _“Any illegal activity will be stopped forever if you fall into our target, so beware-!”_ 🧑‍💻💀
 
 ---
